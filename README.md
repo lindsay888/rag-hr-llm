@@ -16,5 +16,8 @@ pinecone
 langchain
 aws
 
-We are using LLAMA 2 from AWS Bedrock and you would need to setup and install to your instances.
+We are using LLAMA 2 from AWS Bedrock and you would need to setup and install to your instances. 
+
+Follow the steps here for setup - [Setup](https://docs.aws.amazon.com/bedrock/latest/userguide/setting-up.html)
+
 
